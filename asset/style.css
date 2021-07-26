@@ -11,3 +11,10 @@ html {
 body {
   font-family: "Lato", sans-serif;
 }
+
+.bg-color {
+  background: #feeae9;
+}
+.btn-bg-color {
+  background: #ff428d;
+}
